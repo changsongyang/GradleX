@@ -36,6 +36,11 @@
 - [【Gradle-16】直接Run和使用命令行编译有什么区别](https://juejin.cn/post/7366154691031875618)
 - [【Gradle-17】动态删除清单文件中的某个权限](https://juejin.cn/post/7367701663169429554)
 - [【Gradle-18】从Groovy迁移至Kotlin](https://juejin.cn/post/7372591578756841487)
+- [【Gradle-19】Android多渠道打包指南](https://juejin.cn/post/7396254541916078132)
+- [【Gradle-20】Android ABI 分包指南](https://juejin.cn/post/7399530589987602432)
+- [【Gradle-21】Android应用签名详解](https://juejin.cn/post/7404778275019407412)
+- [【Gradle-22】依赖版本管理指南](https://juejin.cn/post/7406147963876278312)
+- [【Gradle-23】CI/CD 之 GitHub Actions](https://juejin.cn/post/7407304950349119498)
 
 ### 插件功能（Feature）
 
